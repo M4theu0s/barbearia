@@ -10,3 +10,15 @@ body {
  }
 
    
+p{
+    text-align: center; 
+    background: #CCCCCC;
+}
+
+#missao {
+        font-size: 20xp;
+}
+
+em strong{
+    color: #FF0000;
+}
