@@ -1,15 +1,12 @@
-p{
-    text-align: center;
+body {
     background: #CCCCCC;
-   }
+}
 
-h1{
- background: #CCCCCC;
-    }   
-    body{
-        background: #CCCC   
-        }           
+#banner{
+}
 
-  
+ h1{
+     text-align: center;
+ }
 
    
